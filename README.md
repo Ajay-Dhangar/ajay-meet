@@ -10,4 +10,3 @@ Mux Meet is a reference implementation of [Mux Real-Time Video](https://mux.com/
 | Name | Status | Preview | Comments | Updated |
 | :--- | :----- | :------ | :------- | :------ |
 | **ajay-meet** | ✅ Ready ([Inspect](https://vercel.com/ajay-dhangar/ajay-meet/7JnUKWgzQwJmLVPnccqNsBsD1AZy)) | [Visit Preview](https://ajay-meet-git-dependabot-npmandyarnjsonwebt-7d9a0a-ajay-dhangar.vercel.app) | 💬 [**Add your feedback**](https://vercel.live/open-feedback/ajay-meet-git-dependabot-npmandyarnjsonwebt-7d9a0a-ajay-dhangar.vercel.app) | Jan 29, 2023 at 1:25PM (UTC) |
-
